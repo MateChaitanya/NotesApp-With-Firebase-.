@@ -1,4 +1,4 @@
-# Notes Pro - Your Digital Notebook
+# NotesApp - Your Digital Notebook
 
 Welcome to the NotesApp repository! This Android app allows users to create, manage, and organize their notes using Firebase as the backend. Below, we provide an overview of key files, functionalities, and usage instructions:
 
@@ -53,13 +53,19 @@ Feel free to explore, customize, and contribute to this project. Happy note-taki
 ---
  
 SIGNUP Screen
-![Screenshot_20231022_142217](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/f20855a5-3001-49f8-bfea-5e897f0fcb9c)
+![Screenshot_20231023_152938](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/4e8a95f8-4774-419c-9dea-afa9cd37bdec)
 
 LOGIN Screen
+![Screenshot_20231023_152909](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/6673a7b6-d317-427b-8a4b-90b6225b74eb)
 
+FIREBASE Authentication
+![Screenshot (44)](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/60d5f1c2-c9d2-46f0-9249-a84093c784ff)
 
 ADD NEW NOTE Screen
+![WhatsApp Image 2023-10-23 at 3 42 55 PM](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/3b8b960b-078e-4b7d-9a2e-7aff8f7d2881)
 
+Cloud Firestore
+![Screenshot (46)](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/9fb18e78-1e03-478b-8cdf-14e9e4ac0638)
 
 NOTES HOME Screen
 
