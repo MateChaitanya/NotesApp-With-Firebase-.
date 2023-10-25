@@ -68,4 +68,6 @@ Cloud Firestore
 ![Screenshot (46)](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/9fb18e78-1e03-478b-8cdf-14e9e4ac0638)
 
 NOTES HOME Screen
+![WhatsApp Image 2023-10-25 at 9 09 43 PM](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/efbf5edb-b9bf-451f-b648-7de6226d817f)
+
 
