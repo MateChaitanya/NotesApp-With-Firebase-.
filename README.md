@@ -59,7 +59,8 @@ LOGIN Screen
 ![Screenshot_20231023_152909](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/6673a7b6-d317-427b-8a4b-90b6225b74eb)
 
 FIREBASE Authentication
-![Screenshot (44)](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/60d5f1c2-c9d2-46f0-9249-a84093c784ff)
+![Screenshot (58)_LI](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/7d85abf5-eb6a-4ec4-9c3b-7bf477951ad5)
+
 
 ADD NEW NOTE Screen
 ![WhatsApp Image 2023-10-23 at 3 42 55 PM](https://github.com/MateChaitanya/NotesApp-With-Firebase-./assets/99747639/3b8b960b-078e-4b7d-9a2e-7aff8f7d2881)
